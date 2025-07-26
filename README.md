@@ -1,0 +1,1 @@
+Code for i2c is located at Core/Src/i2c_master.c and Core/Inc/i2c_master.h
